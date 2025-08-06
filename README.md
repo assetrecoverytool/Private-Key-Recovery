@@ -11,7 +11,7 @@
 
 # Bitcoin recovery & virtual funds monetization
 
-[	Bitcoin Private Key Recovery	]	(https://globalpoolchain.com/)	
+[Bitcoin Private Key Recovery https://globalpoolchain.com/]	
 
 Bitcoin private keys are the backbone of the entire Bitcoin network, and they are essential to the security of your Bitcoin assets. With Cyberloot.org you can use our bitcoin private key finder, generator and monetization tools to access, generate and sell virtual funds internationally with GlobalPay.
 With our services, you can easily find and generate your private key, as well as monetize your virtual funds with GlobalBusiness Pay, InstaBusiness Pay, GlobalWallet and GlobalAssetPay.
